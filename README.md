@@ -47,7 +47,7 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions (¡actualiza cada 12h!)
+### 🐍 Snake Eating My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Horayzer/Horayzer/output/snake.svg" alt="Snake animation" />
