@@ -9,14 +9,14 @@
 
 - 🌱 Actualmente aprendiendo: **React Native, JavaScript, Unity**
 - 💬 Pregúntame sobre: **Python, TensorFlow, CUDA**
-- 📫 Contáctame en: **mavacam@puce.edu.ec**
+- 📫 Contáctame en: **mariovacamora@gmail.com**
 - ⚡ Dato curioso: **Siempre en búsqueda de nuevos desafíos**
 
 ---
 
 ### 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Vaca-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mario-vaca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Vaca-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mario-vaca-mora)
 
 ---
 
