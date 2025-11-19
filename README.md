@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hola, soy Mario Vaca</h1>
-<h3 align="center">Ingeniero de Sistemas de Información - Apasionado por el desarrollo, la IA y la innovación digital</h3>
+<h1 align="center">👋 Hola, soy Mario Vaca Mora</h1>
+<h3 align="center">Ingeniero en Sistemas de Información - Apasionado por el desarrollo, ciberseguridad, la IA y la innovación digital</h3>
 
 ---
 
